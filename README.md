@@ -4,7 +4,7 @@ Games and apps, which are all just premade prompts to work with ChatGPT
 
 ## What you need
 
-- An OpenAI account
+- An OpenAI account (optional, but highly recommended)
 - The official ChatGPT app (optional, but highly recommended)
 - The ability to copy and paste
 
